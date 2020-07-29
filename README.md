@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hiya 👋
+⚡ Fun fact: Pineapple on pizza is tasty no matter what anyone says
+🔭 I’m currently working on building my own pages
+🤔 I’m looking for help with anything since I'm just starting out
+👯 I’m looking to collaborate on anything! Just ask, I'm willing to learn
+💬 Ask me about random facts, I have plenty
 
 <!--
 **AutumnVolianti/autumnvolianti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
